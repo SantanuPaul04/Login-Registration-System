@@ -35,5 +35,5 @@ I Build a Fully Usable Login-Registration System! In This You Can Register Your 
 
 ## Contact Me -> paulsantanu968@gmail.com 📩
 
-## <p>Made with ❤️ by <a href="https://github.com/SantanuPaul04" target="_blank">Santanu Paul</a></p>
+## <p> `Made with ❤️` by <a href="https://github.com/SantanuPaul04" target="_blank">Santanu Paul</a></p>
 
